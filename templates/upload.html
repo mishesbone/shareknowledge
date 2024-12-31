@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Upload</title>
+</head>
+<body>
+    <h1>Upload Media</h1>
+    <form method="post" enctype="multipart/form-data">
+        {{ form.hidden_tag() }}
+        {{ form.media_file.label }} {{ form.media_file() }}<br>
+        {{ form.submit() }}
+    </form>
+    <a href="{{ url_for('dashboard') }}">Back to Dashboard</a>
+</body>
+</html>
