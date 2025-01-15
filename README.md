@@ -1,4 +1,4 @@
-"# shareknowledge" 
+
 ShareKnowledge is a social media web application designed to enable users to publish articles, upload offline media, record live media, and connect with like-minded individuals. The platform fosters knowledge sharing, networking, teaching, and mentoring while providing tools for personal development.
 
 Table of Contents
