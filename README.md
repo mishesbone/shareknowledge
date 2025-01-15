@@ -3,12 +3,16 @@ ShareKnowledge is a social media web application designed to enable users to pub
 
 Table of Contents
 Features
+
 Technologies Used
-Project Structure
+
 Installation
+
 Usage
+
 Contributing
-License
+
+#License#
 
 Features
 User Registration & Login: Secure authentication system using hashed passwords.
