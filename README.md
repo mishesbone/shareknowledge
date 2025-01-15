@@ -24,23 +24,7 @@ Frontend: HTML, CSS, JavaScript
 File Handling: Flask-Uploads
 Form Validation: Flask-WTF
 
-shareknowledge/
-├── app.py               # Main application entry point
-├── config.py            # Configuration file for app settings
-├── models.py            # Database models
-├── routes.py            # Flask routes and logic
-├── templates/           # HTML templates
-│   ├── home.html
-│   ├── register.html
-│   ├── login.html
-│   ├── dashboard.html
-│   └── upload.html
-├── static/              # Static assets (CSS, JS, uploads)
-│   ├── uploads/
-│   ├── css/
-│   └── js/
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
+
 
 Installation
 Clone the Repository:
